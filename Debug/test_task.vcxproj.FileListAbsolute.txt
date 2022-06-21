@@ -1,0 +1,2 @@
+D:\Мусорка\Test\test_task\Debug\test_task.exe
+D:\Мусорка\Test\test_task\Debug\test_task.pdb

@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\Мусорка\Test\test_task\main.cpp(28,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Мусорка\Test\test_task\main.cpp(38,20): warning C4018: <: несоответствие типов со знаком и без знака
+  parceCSV.cpp
+D:\Мусорка\Test\test_task\parceCSV.cpp(33,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Мусорка\Test\test_task\parceCSV.cpp(36,21): warning C4018: <: несоответствие типов со знаком и без знака
+  shortestPathes.cpp
+D:\Мусорка\Test\test_task\shortestPathes.cpp(11,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Мусорка\Test\test_task\shortestPathes.cpp(51,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Мусорка\Test\test_task\shortestPathes.cpp(53,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  test_task.vcxproj -> D:\Мусорка\Test\test_task\Debug\test_task.exe
